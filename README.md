@@ -12,7 +12,8 @@ The landing page is deployed on Netlify and can be accessed through the followin
 
 
 Desktop Version
-![desktop](https://user-images.githubusercontent.com/90598699/235891658-ac97f2ad-9ae9-49c6-a8ab-c47b331e6276.png)
+<img src="https://user-images.githubusercontent.com/90598699/235891658-ac97f2ad-9ae9-49c6-a8ab-c47b331e6276.png" alt="Desktop Version" width="600">
+<!-- ![desktop](https://user-images.githubusercontent.com/90598699/235891658-ac97f2ad-9ae9-49c6-a8ab-c47b331e6276.png) -->
 
 
 Mobile Version
