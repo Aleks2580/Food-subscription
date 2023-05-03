@@ -13,10 +13,9 @@ The landing page is deployed on Netlify and can be accessed through the followin
 
 Desktop Version
 
-<img src="https://user-images.githubusercontent.com/90598699/235891658-ac97f2ad-9ae9-49c6-a8ab-c47b331e6276.png" alt="Desktop Version" width="400">
-<img src="https://user-images.githubusercontent.com/90598699/235918033-b7fdf703-f340-4a5c-a15d-bbe8bb7ceec1.png" alt="Desktop Version2" width="400">
-<img src="https://user-images.githubusercontent.com/90598699/235918263-3cc2dfbb-be7c-433b-850f-bf1e863e37cd.png" alt="Desktop Version3" width="400">
-<img src="https://user-images.githubusercontent.com/90598699/235918299-03152d89-f62c-4c57-9534-2d5678b7d3ff.png" alt="Desktop Version4" width="400">
+<img src="https://user-images.githubusercontent.com/90598699/235891658-ac97f2ad-9ae9-49c6-a8ab-c47b331e6276.png" alt="Desktop Version" width="500"> <img src="https://user-images.githubusercontent.com/90598699/235918033-b7fdf703-f340-4a5c-a15d-bbe8bb7ceec1.png" alt="Desktop Version2" width="500">
+<img src="https://user-images.githubusercontent.com/90598699/235918263-3cc2dfbb-be7c-433b-850f-bf1e863e37cd.png" alt="Desktop Version3" width="500">
+<img src="https://user-images.githubusercontent.com/90598699/235918299-03152d89-f62c-4c57-9534-2d5678b7d3ff.png" alt="Desktop Version4" width="500">
 
 
 
