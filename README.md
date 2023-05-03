@@ -16,11 +16,12 @@ Desktop Version
 
 
 Mobile Version
+
 ![mobile](https://user-images.githubusercontent.com/90598699/235891685-5e5e0858-c317-43be-8b76-89015e75009d.png)
 ![mobile1](https://user-images.githubusercontent.com/90598699/235891700-f89747ed-0e9e-40e8-9acc-cbdcf8169760.png)
 
 
-Getting Started
+## Getting Started
 To get a copy of this project up and running on your local machine for development and testing purposes, you can follow these steps:
 
 - Clone the repository:
